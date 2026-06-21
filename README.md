@@ -10,4 +10,4 @@ Este é um projeto de prática para aprender a usar Git e GitHub.
 
 ## Sobre mim
 
-Estou aprendendo a usar o GitHub para colaborar em projetos de forma profisional.
+Estou aprendendo a usar o GitHub para colaborar em projetos de forma profissional.
